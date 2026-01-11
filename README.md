@@ -1,15 +1,15 @@
 <!-- HEADER / HERO SECTION -->
-<h1 align="center">👋 Hi, I'm Abhishek</h1>
-<h3 align="center">B.Tech Student | Aspiring Developer | Open Source Learner</h3>
+<h1 align="center">👋 Hi, I'm Abhishek Kumar Goswami</h1>
+<h3 align="center">B.Tech Student | Web & Mobile Developer | Interested in Open Source </h3>
 
 ---
 
 ## 🔭 About Me
 
-- 👨‍🎓 B.Tech Student (Future Full-Stack Developer)
-- 💻 Interested in Web Development & Open Source
-- 🌱 Currently learning: JavaScript, React, Node.js
-- 📫 Reach me at: **your_email@example.com**
+- 👨‍🎓 B.Tech Student (Full-Stack Developer)
+- 💻 Interested in Web Development ,  Mobile Development & Open Source
+- 🌱 Currently studying : CSE (AI & ML) at Faculty of Technology , DU
+- 📫 Reach me at: **astatyncodes@gmail.com**
 - 🌐 Portfolio: _coming soon_
 
 ---
@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github&theme=dark" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,dart,flutter,c,c#,java,git,github&theme=dark" alt="Tech Icons" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 ---
 
-## 👨‍💻 Projects
+*/ ## 👨‍💻 Projects
 
 Here are some projects I’m proud of:
 
@@ -44,13 +44,13 @@ Here are some projects I’m proud of:
 
 *(Add live links or GitHub links if possible)*
 
----
+--- /*
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> | 
-  <a href="https://twitter.com/your-profile">Twitter</a> |
+  <a href="https://linkedin.com/in/abhishekgoswami92">LinkedIn</a> | 
+ */ <a href="https://twitter.com/your-profile">Twitter</a> | /*
   <a href="https://yourportfolio.com">Portfolio</a>
 </p>
 
