@@ -1,23 +1,29 @@
 <!-- HEADER / HERO SECTION -->
 <h1 align="center">👋 Hi, I'm Abhishek Kumar Goswami</h1>
-<h3 align="center">B.Tech Student | Web & Mobile Developer | Interested in Open Source </h3>
+<h3 align="center">B.Tech Student | Web & Mobile Developer | Open Source Enthusiast</h3>
 
 ---
 
 ## 🔭 About Me
 
-- 👨‍🎓 B.Tech Student (Full-Stack Developer)
-- 💻 Interested in Web Development ,  Mobile Development & Open Source
-- 🌱 Currently studying : CSE (AI & ML) at Faculty of Technology , DU
+- 👨‍🎓 B.Tech Student (CSE – AI & ML) at Faculty of Technology, DU  
+- 💻 Interested in **Web Development, Mobile Development & Open Source**
+- 🌱 Currently learning **Full-Stack Development**
 - 📫 Reach me at: **astatyncodes@gmail.com**
-- 🌐 Portfolio: _coming soon_
+- 🌐 Portfolio: *coming soon*
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,dart,flutter,c,c#,java,git,github&theme=dark" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,c,flutter,dart&theme=dark" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
@@ -25,37 +31,34 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-092&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-092&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-092&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-092&theme=tokyonight" />
 </p>
 
 ---
 
-*/ ## 👨‍💻 Projects
-
-Here are some projects I’m proud of:
+<!-- PROJECTS SECTION (UNCOMMENT WHEN READY)
+## 👨‍💻 Projects
 
 - 🌐 **Project One** – Short description
 - 📊 **Project Two** – Short description
 - 💡 **Project Three** – Short description
+-->
 
-*(Add live links or GitHub links if possible)*
-
---- /*
+---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhishekgoswami92">LinkedIn</a> | 
- */ <a href="https://twitter.com/your-profile">Twitter</a> | /*
-  <a href="https://yourportfolio.com">Portfolio</a>
+  <a href="https://linkedin.com/in/abhishekgoswami92">LinkedIn</a> |
+  <a href="mailto:astatyncodes@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 🤝 Let’s Collaborate!
 
-Open to new ideas, open source contributions and learning together 🙂
+Open to new ideas, open-source contributions, and learning together 🚀
