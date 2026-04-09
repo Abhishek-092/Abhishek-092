@@ -12,7 +12,7 @@
 - 👨‍🎓 B.Tech Student (CSE – AI & ML) at Faculty of Technology, DU  
 - 💻 Interested in **Web Development, Mobile Development & Open Source**
 - 📫 Reach me at: **astatyncodes@gmail.com**
-<!-- 🌐 Portfolio: *coming soon* -->
+ 🌐 Portfolio: https://abhishek-092.github.io/portfolio-online/
 
 ---
 
