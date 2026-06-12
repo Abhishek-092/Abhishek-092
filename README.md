@@ -1,8 +1,3 @@
-````md
-<!-- ========================================= -->
-<!-- PREMIUM GITHUB PROFILE README -->
-<!-- ========================================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,14,18,20,24&text=Abhishek%20Kumar%20Goswami&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
