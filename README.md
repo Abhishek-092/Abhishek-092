@@ -159,7 +159,7 @@ Actively exploring open source development and collaborative software engineerin
 </div>
 
 ---
-
+<!--
 # Certifications
 
 ## AWS
@@ -179,6 +179,7 @@ Actively exploring open source development and collaborative software engineerin
 <!-- ADD CERTIFICATIONS -->
 
 ---
+-->
 
 # Coding Profiles
 
