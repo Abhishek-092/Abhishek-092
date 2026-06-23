@@ -98,6 +98,31 @@ I enjoy building practical software solutions, learning modern technologies, and
 
 <!-- ADD PROJECTS HERE -->
 
+<details open>
+<summary><b>👋 Signova — Real-Time Sign Language Translation</b></summary>
+
+### Project Description
+
+| Metric | Value |
+|----------|----------|
+| Stack | `HTML5`, `CSS3`, `JavaScript`, `MediaPipe Hands` |
+| Scale | Client-Side Execution (Edge Computing) |
+| Performance | Real-time Webcam Processing with Zero Latency |
+| Security | Privacy-First (No server data storage) |
+| Impact | Bridges communication gaps for the hard-of-hearing |
+| Repository | [Abhishek-092/Signova](https://github.com/Abhishek-092/Signova) |
+| Live Site | [Launch Signova](https://abhishek-092.github.io/Signova/index.html) |
+
+**Signova** is an AI-powered translation web application that converts sign language gestures into text and audio in real-time. Built entirely client-side using MediaPipe's computer vision pipeline, it tracks 21 hand landmarks to predict gestures with high precision and low latency.
+
+#### Key Features:
+- **21-Point Landmark Detection:** High fidelity hand tracking.
+- **Text-to-Speech Integration:** Outputs translated gestures as spoken voice.
+- **Ultra-Responsive:** Optimized client-side processing requiring no backend APIs.
+
+</details>
+
+<!--
 <details>
 <summary><b>Project Name</b></summary>
 
@@ -115,9 +140,6 @@ I enjoy building practical software solutions, learning modern technologies, and
 Professional project explanation goes here.
 
 </details>
-
-<!--
-Duplicate the above block for each project.
 -->
 
 ---
