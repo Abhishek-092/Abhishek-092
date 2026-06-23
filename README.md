@@ -159,34 +159,34 @@ Actively exploring open source development and collaborative software engineerin
 </div>
 
 ---
-<!-->
+<!--
 # Certifications
 
 ## AWS
 
-<!-- ADD CERTIFICATIONS -->
+[ADD CERTIFICATIONS]
 
-<!-->
 ## Oracle
 
-<!-- ADD CERTIFICATIONS -->
-<!-->
+[ADD CERTIFICATIONS]
+
 ## NPTEL
 
-<!-- ADD CERTIFICATIONS -->
-<!-->
+[ADD CERTIFICATIONS]
+
 ## Cisco
 
-<!-- ADD CERTIFICATIONS -->
-<!-->
+[ADD CERTIFICATIONS]
+
 ---
 -->
+
 <!--
 # Coding Profiles
 
 <div align="center">
 
-<!-- REPLACE WITH ACTUAL LINKS 
+[REPLACE WITH ACTUAL LINKS]
 
 <a href="#">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
@@ -205,7 +205,6 @@ Actively exploring open source development and collaborative software engineerin
 </a>
 
 </div>
--->
 -->
 
 ---
