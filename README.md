@@ -307,25 +307,21 @@ Open To:
 
 # Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/abhishekgoswami92" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn animated">
+  </a>
+  <a href="mailto:astatyncodes@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="Gmail animated">
+  </a>
+  <a href="https://abhishek-092.github.io/portfolio-online/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" alt="Portfolio animated">
+  </a>
+</p>
 
-<a href="mailto:astatyncodes@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/abhishekgoswami92">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Abhishek-092">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://abhishek-092.github.io/portfolio-online/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600" alt="Animated Divider">
+</p>
 
 ---
 
