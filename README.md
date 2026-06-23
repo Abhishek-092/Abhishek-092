@@ -178,7 +178,7 @@ Actively exploring open source development and collaborative software engineerin
 ## Cisco
 
 <!-- ADD CERTIFICATIONS -->
-
+<!-->
 ---
 -->
 
