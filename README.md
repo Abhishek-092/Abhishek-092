@@ -159,13 +159,14 @@ Actively exploring open source development and collaborative software engineerin
 </div>
 
 ---
-<!--
+<!-->
 # Certifications
 
 ## AWS
 
 <!-- ADD CERTIFICATIONS -->
 
+<!-->
 ## Oracle
 
 <!-- ADD CERTIFICATIONS -->
