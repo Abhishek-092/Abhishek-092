@@ -170,7 +170,7 @@ Actively exploring open source development and collaborative software engineerin
 ## Oracle
 
 <!-- ADD CERTIFICATIONS -->
-
+<!-->
 ## NPTEL
 
 <!-- ADD CERTIFICATIONS -->
