@@ -174,7 +174,7 @@ Actively exploring open source development and collaborative software engineerin
 ## NPTEL
 
 <!-- ADD CERTIFICATIONS -->
-
+<!-->
 ## Cisco
 
 <!-- ADD CERTIFICATIONS -->
