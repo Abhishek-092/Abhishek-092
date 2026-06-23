@@ -157,9 +157,8 @@ Actively exploring open source development and collaborative software engineerin
 | Full Stack Developer | React + Node.js Ecosystem |
 
 </div>
-
----
 <!--
+---
 # Certifications
 
 ## AWS
