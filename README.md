@@ -315,7 +315,7 @@ Open To:
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60" alt="Email png">
   </a>
   <a href="https://abhishek-092.github.io/portfolio-online/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="60" alt="Portfolio animated">
+    <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="60" alt="Portfolio png">
   </a>
 </p>
 
