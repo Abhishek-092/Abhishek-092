@@ -124,25 +124,30 @@ Duplicate the above block for each project.
 
 # Experience
 
-<!--
-## Software Engineering Intern
-Company Name
+### 🚀 Open Source Contributor
+**Elite Coders Winter of Code** | *Jan 2026*
+- Contributed to multiple open-source repositories, driving feature enhancements and critical bug fixes.
+- Merged **50+ Pull Requests** focusing on `JavaScript`, `React`, and collaborative development workflows.
+- Engaged in peer code reviews, issues triage, and version control best practices.
 
-Duration
+<br>
 
-Description
+### 🎙️ Campus Ambassador
+**Internshala** & **PhysicsWallah**
+- Led campus outreach programs and student engagement initiatives to build active tech communities.
+- Facilitated communication channels between students and organizations, driving adoption of learning resources.
+- Organized peer learning sessions and workshops focusing on tech skills and professional opportunities.
 
-Responsibilities:
-- Responsibility 1
-- Responsibility 2
+<br>
 
-Skills:
-`Java` `React` `Node.js`
--->
-
-### Open Source Contributor
-
-Actively exploring open source development and collaborative software engineering workflows.
+### 🏆 Hackathon Competitor
+**Various Platforms & Institutions**
+- Participated in **20+ hackathons**, building rapid solutions under tight deadlines:
+  - **Smart India Hackathon (SIH)**
+  - **HackOverflow** (IIT Goa)
+  - **GTA MegaJam** (NIT Rourkela)
+  - **Hack4Delhi**
+- Developed strong skills in rapid prototyping, team leadership, cross-functional collaboration, and presenting MVPs to panels of judges.
 
 ---
 
