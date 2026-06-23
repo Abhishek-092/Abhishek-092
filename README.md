@@ -181,12 +181,12 @@ Actively exploring open source development and collaborative software engineerin
 <!-->
 ---
 -->
-
+<!--
 # Coding Profiles
 
 <div align="center">
 
-<!-- REPLACE WITH ACTUAL LINKS -->
+<!-- REPLACE WITH ACTUAL LINKS 
 
 <a href="#">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
@@ -205,6 +205,8 @@ Actively exploring open source development and collaborative software engineerin
 </a>
 
 </div>
+-->
+-->
 
 ---
 
