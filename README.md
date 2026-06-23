@@ -246,12 +246,11 @@ Actively exploring open source development and collaborative software engineerin
 # Contribution Snake
 
 <div align="center">
-
-```yaml
-Enable GitHub Actions snake workflow:
-https://github.com/Platane/snk
-````
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek-092/Abhishek-092/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek-092/Abhishek-092/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake github action" src="https://raw.githubusercontent.com/Abhishek-092/Abhishek-092/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
