@@ -155,7 +155,7 @@ Professional project explanation goes here.
 <br>
 
 ### 🎙️ Campus Ambassador
-**Internshala** & **PhysicsWallah**
+**E-Cell IIT'B**, **Internshala** & **PhysicsWallah**
 - Led campus outreach programs and student engagement initiatives to build active tech communities.
 - Facilitated communication channels between students and organizations, driving adoption of learning resources.
 - Organized peer learning sessions and workshops focusing on tech skills and professional opportunities.
