@@ -311,7 +311,7 @@ Open To:
   <a href="https://linkedin.com/in/abhishekgoswami92" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn animated">
   </a>
-  <a href="mailto:astatyncodes@gmail.com">
+  <a href="mailto:abhishekkumargoswami92@gmail.com">
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60" alt="Email png">
   </a>
   <a href="https://abhishek-092.github.io/portfolio-online/" target="_blank">
