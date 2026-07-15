@@ -169,7 +169,7 @@ Professional project explanation goes here.
   - **HackOverflow** (IIT Goa)
   - **GTA MegaJam** (NIT Rourkela)
   - **Hack4Delhi**
-  - **Protex** (Finalist) ( Microsoft, Noida by Protégé IGDTUW) 
+  - **Protex** (Finalist) (Protégé IGDTUW at Microsoft, Noida) 
 - Developed strong skills in rapid prototyping, team leadership, cross-functional collaboration, and presenting MVPs to panels of judges.
 
 ---
