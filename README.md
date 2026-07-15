@@ -332,4 +332,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,18,20,24"/>
 
 </div>
-```
